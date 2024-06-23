@@ -1,7 +1,3 @@
-Sure! Here is the updated README file with the repository name included:
-
----
-
 # Learning Algorithms and Data Structures
 
 ## Overview
