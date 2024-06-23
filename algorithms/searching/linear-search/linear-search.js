@@ -1,6 +1,4 @@
 /**
- * Linear Search Algorithm
- * 
  * @param {Array} arr - The array to search through
  * @param {*} target - The value to search for
  * @returns {number} - The index of the target value if found, otherwise -1
